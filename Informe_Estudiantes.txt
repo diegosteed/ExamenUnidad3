@@ -1,0 +1,321 @@
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Acosta Hanna
+Fecha      : 13/05/2026 09:10:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 15
+Promedio   : 8.0
+Mayor      : 10
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Andrade Hugo
+Fecha      : 13/05/2026 09:11:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 20
+Promedio   : 7.2
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Atiencia Josue
+Fecha      : 13/05/2026 09:12:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 12
+Promedio   : 6.8
+Mayor      : 9
+Menor      : 4
+Aprobados  : 2
+Reprobados : 3
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Balarrezo Diego
+Fecha      : 13/05/2026 09:13:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 30
+Promedio   : 9.0
+Mayor      : 10
+Menor      : 8
+Aprobados  : 5
+Reprobados : 0
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Barrionuevo Job
+Fecha      : 13/05/2026 09:14:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 18
+Promedio   : 7.5
+Mayor      : 9
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Bedoya Juan
+Fecha      : 13/05/2026 09:15:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 10
+Promedio   : 6.5
+Mayor      : 8
+Menor      : 4
+Aprobados  : 2
+Reprobados : 3
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Bravo Samuel
+Fecha      : 13/05/2026 09:16:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 25
+Promedio   : 8.5
+Mayor      : 10
+Menor      : 7
+Aprobados  : 5
+Reprobados : 0
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Cajiao Paulo
+Fecha      : 13/05/2026 09:17:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 14
+Promedio   : 7.0
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Calvopiña Brandon
+Fecha      : 13/05/2026 09:18:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 19
+Promedio   : 7.6
+Mayor      : 9
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Castelo Katherine
+Fecha      : 13/05/2026 09:19:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 11
+Promedio   : 6.9
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Chacha Victor
+Fecha      : 13/05/2026 09:20:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 16
+Promedio   : 7.3
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Chiluiza Steed
+Fecha      : 13/05/2026 09:21:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 15
+Promedio   : 8.0
+Mayor      : 10
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Dominguez Daniel
+Fecha      : 13/05/2026 09:22:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 13
+Promedio   : 7.1
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Freire Alan
+Fecha      : 13/05/2026 09:23:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 21
+Promedio   : 7.9
+Mayor      : 9
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Gualle Abisag
+Fecha      : 13/05/2026 09:24:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 17
+Promedio   : 7.2
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Guaman Alexander
+Fecha      : 13/05/2026 09:25:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 22
+Promedio   : 8.1
+Mayor      : 10
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Guanga Sebastian
+Fecha      : 13/05/2026 09:26:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 9
+Promedio   : 6.4
+Mayor      : 8
+Menor      : 4
+Aprobados  : 2
+Reprobados : 3
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Guanotoa Karla
+Fecha      : 13/05/2026 09:27:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 18
+Promedio   : 7.5
+Mayor      : 9
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Landeta Edison
+Fecha      : 13/05/2026 09:28:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 12
+Promedio   : 6.8
+Mayor      : 9
+Menor      : 4
+Aprobados  : 2
+Reprobados : 3
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Lara Karen
+Fecha      : 13/05/2026 09:29:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 14
+Promedio   : 7.0
+Mayor      : 9
+Menor      : 5
+Aprobados  : 3
+Reprobados : 2
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Loor Jhon
+Fecha      : 13/05/2026 09:30:00
+Lenguaje   : C++
+-----------------------------------------
+Ultimo resultado: 19
+Promedio   : 7.6
+Mayor      : 9
+Menor      : 6
+Aprobados  : 4
+Reprobados : 1
+=========================================
+
+=========================================
+         REPORTE DE RESULTADOS
+=========================================
+Estudiante : Lopez Washington
+Fecha      : 13/05/2026 09:31:00
+Lenguaje   : C++
