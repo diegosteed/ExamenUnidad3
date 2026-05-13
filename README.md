@@ -18,4 +18,4 @@ El programa muestra un menú con tres opciones principales:
 3. Guardar resultados en el archivo Resultados.txt.
 
 Cada vez que se guarda, la información se añade al archivo en modo acumulativo.  
-De esta forma se pueden registrar los reportes de los 30 estudiantes del paralelos.
+De esta forma se pueden registrar los reportes de los 30 estudiantes del paralelo.
